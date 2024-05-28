@@ -1,1 +1,1 @@
-"# python_ajedrez" 
+# python_ajedrez
