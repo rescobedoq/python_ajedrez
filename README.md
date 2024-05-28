@@ -1,7 +1,4 @@
 <div align="center">
-</div>
-
-<div align="center">
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
 </div>
 
@@ -59,9 +56,6 @@
 -   Ciclos
 -   Programación orientada a objetos
 -   ¿Programación funcional?
-
-<details>
-
 
 ## CONTENIDO DE LA GUÍA
 
